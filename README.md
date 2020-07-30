@@ -1,3 +1,19 @@
 # Todo-App
 
+Todo Web Application
+
+# Installation
+
+```
+git clone https://github.com/kingsw0rd/Todo-App.git
+cd Todo-App
+createdb todoapp
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+```
+
 # Requirements
+
+Python: 3.0+
+Django: 3.0
