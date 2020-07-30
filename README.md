@@ -7,7 +7,7 @@ Todo Web Application
 ```
 git clone https://github.com/kingsw0rd/Todo-App.git
 cd Todo-App
-createdb todoapp
+
 python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
