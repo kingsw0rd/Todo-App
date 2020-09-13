@@ -5,7 +5,7 @@ Todo Web Application
 # Installation
 
 ```
-git clone https://github.com/kingsw0rd/Todo-App.git
+git clone https://github.com/saifxd7/Todo-App.git
 cd Todo-App
 
 python manage.py migrate
